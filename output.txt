@@ -1,0 +1,40 @@
+ID: 1
+Name: конструктор
+Frequency: 20
+
+ID: 1
+Name: конструктор
+Frequency: 20
+
+ID: 3
+Name: кукла
+Frequency: 60
+
+ID: 2
+Name: робот
+Frequency: 20
+
+ID: 3
+Name: кукла
+Frequency: 60
+
+ID: 3
+Name: кукла
+Frequency: 60
+
+ID: 3
+Name: кукла
+Frequency: 60
+
+ID: 3
+Name: кукла
+Frequency: 60
+
+ID: 3
+Name: кукла
+Frequency: 60
+
+ID: 1
+Name: конструктор
+Frequency: 20
+
